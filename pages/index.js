@@ -4,7 +4,7 @@ import Footer from '@components/Footer'
 
 export default function Home() {
   return (
-    <div id="root">
+    <div>
   <div class="h-screen flex overflow-hidden relative">
     <div
       class="w-56 relative flex-shrink-0 flex flex-col pb-4 bg-secondary-300 transition-all"
